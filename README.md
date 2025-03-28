@@ -90,4 +90,4 @@ From `v0.10.0`, we shipped support for compiling Javascript back to Wenyan. Than
 
 ## License
 
-[MIT License](https://github.com/antfu/wenyan-lang-vscode/blob/master/LICENSE) © 2019-2020 [Anthony Fu](https://github.com/antfu)
+[MIT License] © 2019-2020
